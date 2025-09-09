@@ -21,6 +21,6 @@ int main()
             }
         }
 
-        cout << "*" << endl;
+        cout << "*" << endl; // Last line code
     }
 }
